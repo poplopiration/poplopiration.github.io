@@ -6,5 +6,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-###为什么想要做自己的网站？
+### 为什么想要做自己的网站？
 因为
