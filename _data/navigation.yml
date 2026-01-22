@@ -19,7 +19,18 @@ main:
     
   - title: "工程"
     url: /portfolio/
-        
+
+physics_sidebar:
+  - title: "数学"
+    children:
+      - title: "复变函数与积分变换"
+       # url: /math/complex-variables/
+      - title: "概率论与数理统计"
+       # url: /math/probability/
+  - title: "物理"
+    children:
+      - title: "量子力学"
+        #url: /physics/quantum/
  # - title: "Blog Posts"
  #   url: /year-archive/
     
